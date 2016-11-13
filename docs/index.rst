@@ -12,10 +12,11 @@ trajectory_analysis documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    getting-started
    commands
+   documentation
 
 
 
